@@ -4,7 +4,7 @@
 
 ![Test Coverage](https://coveralls.io/repos/github/AK-ALiEN/BurpSuite-Connector/badge.svg?branch=main)
 ![Latest Release](https://img.shields.io/github/v/release/AK-ALiEN/BurpSuite-Connector)
-![License](https://img.shields.io/github/license/AK-ALiEN/BurpSuite-Connector)
+![License](https://img.shields.io/badge/license-MIT-blue)
 
 ---
 
@@ -174,10 +174,10 @@ connectButton.addEventListener('click', async function() {
 
 ## 🧑‍💻 Developer
 
-**Author:** [ALiEN](https://github.com/AK-ALiEN)  
-**Maintainers:** [AlienDevLab] (https://t.me/AlienDevLab) 
+**Author:** [ALiEN](https://t.me/ak_xlien)  
+**Maintainers:** [AlienDevLab](https://t.me/AlienDevLab) 
 **Version:** 1.0.2  
-**License:** [MIT License](LICENSE)
+**License:** [MIT License](LICENSE.txt)
 
 ---
 
@@ -193,7 +193,7 @@ connectButton.addEventListener('click', async function() {
 
 ## 🧾 License
 
-This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
+This project is licensed under the **MIT License** — see the [LICENSE](LICENSE.txt) file for details.
 
 ---
 
